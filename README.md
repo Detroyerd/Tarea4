@@ -1,6 +1,5 @@
 # Tarea4
-Aqui el link de jira para las historias de usuario. Tambien estaran aqui
-https://luis11.atlassian.net/jira/software/projects/TAR/boards/2/roadmap
+
 
 1-Historia de usuario: Como usuario de la plataforma virtual del ITLA, quiero poder iniciar sesión en mi cuenta para acceder a los cursos y funcionalidades que ofrece la plataforma.
 
